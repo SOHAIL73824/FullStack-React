@@ -1,5 +1,5 @@
 {
-  "name": "learn-fullstack-javascript",
+  "name": "fullstack-javascript",
   "version": "1.0.0",
   "description": "FullStack javaScript Development",
   "main": "index.js",
@@ -8,13 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jscomplete/learn-fullstack-javascript.git"
+    "url": "git+https://github.com/SOHAIL73824/FullStack-React"
   },
-  "author": "",
+  "author": "Sohail",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jscomplete/learn-fullstack-javascript/issues"
-  },
   "homepage": "https://github.com/jscomplete/learn-fullstack-javascript#readme",
   "dependencies": {
     "express": "^4.17.1",
